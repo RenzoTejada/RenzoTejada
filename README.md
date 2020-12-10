@@ -1,3 +1,5 @@
+<p align="center"> <img src="https://renzotejada.com/wp-content/uploads/2020/08/Firma_RT-e1600222935788.png" alt="renzotejada" /> </p>
+
 <h1 align="center">Hi 👋, I'm <a href="https://www.renzotejada.com">Renzo Tejada</a>!
 <h3 align="center">A passionate WordPress developer from Peru 🇵🇪</h3>
 
