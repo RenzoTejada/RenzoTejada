@@ -24,15 +24,12 @@
 
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/r" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="r" height="30" width="40" /></a>
-<a href="https://twitter.com/tejadarenzo" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="tejadarenzo" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/tejadarenzo" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="tejadarenzo" height="30" width="40" /></a>
-<a href="https://fb.com/tejadarenzo" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="tejadarenzo" height="30" width="40" /></a>
-<a href="https://instagram.com/rt_codes" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="rt_codes" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/renzotejada" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="renzotejada" height="30" width="40" /></a>
-</p>
+  
+[![Linkedin Badge](https://img.shields.io/badge/-tejadarenzo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tejadarenzo/)](https://https://www.linkedin.com/in/tejadarenzo/)
+[![Instagram Badge](https://img.shields.io/badge/-rt_codes-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/rt_codes/)](https://www.instagram.com/rt_codes/)
+[![Youtube Badge](https://img.shields.io/badge/-RenzoTejada-darkred?style=flat-square&logo=youtube&logoColor=white&link=https://www.youtube.com/c/RenzoTejada)](https://www.youtube.com/c/koolkanna)
+[![Gmail Badge](https://img.shields.io/badge/-renzzo09@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:renzzo09@gmail.com)](mailto:kanna6501@gmail.com)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=renzotejada&show_icons=true&locale=en&layout=compact" alt="renzotejada" /></p>
+
 
 ![Renzo Tejada github stats](https://github-readme-stats.vercel.app/api?username=renzotejada&show_icons=true&theme=vue)
