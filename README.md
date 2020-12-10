@@ -17,6 +17,10 @@
 
 - 📄 Know about my experiences [https://renzotejada.com/familia/](https://renzotejada.com/familia/)
 
+#### 📝 Latest plugins I developed  on  [https://renzotejada.com/](https://renzotejada.com/):
+- [Plugin de Ubigeo de Perú para WordPress y WooCommerce](https://renzotejada.com/plugin/ubigeo-peru/)
+- [Plugin de Costo de envío para Ubigeo de Perú](https://renzotejada.com/plugin/costo-de-envio-de-ubigeo-de-peru-para-woocommerce/)
+- [Plugin de Libro de Reclamaciones y Quejas para WordPress](https://renzotejada.com/libro-de-reclamaciones-y-quejas/)
 
 
 <h3 align="left">Connect with me:</h3>
