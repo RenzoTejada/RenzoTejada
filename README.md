@@ -34,6 +34,8 @@
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=renzotejada&show_icons=true&locale=en&layout=compact" alt="renzotejada" /></p>
+![Renzo Tejada's github stats](https://github-readme-stats.vercel.app/api?username=renzotejada&show_icons=true&theme=dracula)
+
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=renzotejada&show_icons=true&locale=en" alt="renzotejada" /></p>
 
