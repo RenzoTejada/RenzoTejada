@@ -27,8 +27,8 @@
   
 [![Linkedin Badge](https://img.shields.io/badge/-tejadarenzo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tejadarenzo/)](https://https://www.linkedin.com/in/tejadarenzo/)
 [![Instagram Badge](https://img.shields.io/badge/-rt_codes-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/rt_codes/)](https://www.instagram.com/rt_codes/)
-[![Youtube Badge](https://img.shields.io/badge/-RenzoTejada-darkred?style=flat-square&logo=youtube&logoColor=white&link=https://www.youtube.com/c/RenzoTejada)](https://www.youtube.com/c/koolkanna)
-[![Gmail Badge](https://img.shields.io/badge/-renzzo09@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:renzzo09@gmail.com)](mailto:kanna6501@gmail.com)
+[![Youtube Badge](https://img.shields.io/badge/-RenzoTejada-darkred?style=flat-square&logo=youtube&logoColor=white&link=https://www.youtube.com/c/RenzoTejada)](https://www.youtube.com/c/RenzoTejada)
+[![Gmail Badge](https://img.shields.io/badge/-renzzo09@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:renzzo09@gmail.com)](mailto:renzzo09@gmail.com)
 
 
 
