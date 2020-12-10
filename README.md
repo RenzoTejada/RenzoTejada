@@ -1,15 +1,13 @@
-<h1 align="center">Hi 👋, I'm Renzo Tejada</h1>
+<h1 align="center">Hi 👋, I'm <a href="https://www.renzotejada.com">Renzo Tejada</a>!
 <h3 align="center">A passionate WordPress developer from Peru 🇵🇪</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=renzotejada&label=Profile%20views&color=0e75b6&style=flat" alt="renzotejada" /> </p>
 
-- 🔭 I’m currently working on [Ubigeo Perú 🇵🇪](https://github.com/RenzoTejada/ubigeo-peru)
+- 🔭 I’m currently working on [Ubigeo Perú 🇵🇪](https://github.com/RenzoTejada/ubigeo-peru) and [Libro de Reclamaciones y Quejas](https://github.com/RenzoTejada/libro-de-reclamaciones-y-quejas)
 
 - 🌱 I’m currently learning **VueJS, JS, AWS, kotlin**
 
-- 👯 I’m looking to collaborate on [Libro de Reclamaciones y Quejas](https://github.com/RenzoTejada/libro-de-reclamaciones-y-quejas)
-
-- 👨‍💻 All of my projects are available at [https://renzotejada.com/](https://renzotejada.com/)
+- 👨‍💻 Visit my website at [https://renzotejada.com/](https://renzotejada.com/)
 
 - 📝 I regularly write articles on [https://renzotejada.com/nuestro-blog](https://renzotejada.com/nuestro-blog)
 
