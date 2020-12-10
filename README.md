@@ -28,10 +28,12 @@
 <h3 align="left">Connect with me:</h3>
   
 [![Linkedin Badge](https://img.shields.io/badge/-tejadarenzo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tejadarenzo/)](https://https://www.linkedin.com/in/tejadarenzo/)
+[![Twitter Badge](https://img.shields.io/badge/-@tejadarenzo-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/tejadarenzo)](https://twitter.com/tejadarenzo)
 [![Instagram Badge](https://img.shields.io/badge/-rt_codes-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/rt_codes/)](https://www.instagram.com/rt_codes/)
 [![Youtube Badge](https://img.shields.io/badge/-RenzoTejada-darkred?style=flat-square&logo=youtube&logoColor=white&link=https://www.youtube.com/c/RenzoTejada)](https://www.youtube.com/c/RenzoTejada)
 [![Gmail Badge](https://img.shields.io/badge/-renzzo09@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:renzzo09@gmail.com)](mailto:renzzo09@gmail.com)
 
 
+![Renzo Tejada github stats](https://bad-apple-github-readme.vercel.app/api?username=renzotejada&show_icons=true&theme=vue)
+![Renzo Tejada github stats](https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=renzotejada)
 
-![Renzo Tejada github stats](https://github-readme-stats.vercel.app/api?username=renzotejada&show_icons=true&theme=vue)
