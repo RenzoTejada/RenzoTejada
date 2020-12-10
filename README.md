@@ -31,6 +31,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-tejadarenzo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tejadarenzo/)](https://https://www.linkedin.com/in/tejadarenzo/)
 [![Twitter Badge](https://img.shields.io/badge/-@tejadarenzo-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/tejadarenzo)](https://twitter.com/tejadarenzo)
 [![Instagram Badge](https://img.shields.io/badge/-rt_codes-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/rt_codes/)](https://www.instagram.com/rt_codes/)
+[![WordPress Badge](https://img.shields.io/badge/-renzotejada-lightgrey?style=flat-square&logo=wordpress&logoColor=white&link=https://profiles.wordpress.org/renzotejada/)](https://profiles.wordpress.org/renzotejada/)
 [![Youtube Badge](https://img.shields.io/badge/-RenzoTejada-darkred?style=flat-square&logo=youtube&logoColor=white&link=https://www.youtube.com/c/RenzoTejada)](https://www.youtube.com/c/RenzoTejada)
 [![Gmail Badge](https://img.shields.io/badge/-renzzo09@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:renzzo09@gmail.com)](mailto:renzzo09@gmail.com)
 
