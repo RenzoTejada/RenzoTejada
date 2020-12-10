@@ -35,6 +35,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=renzotejada&show_icons=true&locale=en&layout=compact" alt="renzotejada" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=renzotejada&show_icons=true&locale=en" alt="renzotejada" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=renzotejada&" alt="renzotejada" /></p>
+![Renzo Tejada github stats](https://github-readme-stats.vercel.app/api?username=renzotejada&show_icons=true&theme=vue)
