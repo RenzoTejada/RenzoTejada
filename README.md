@@ -28,8 +28,8 @@
 <h3 align="left">Connect with me:</h3>
 
 [![Facebook Badge](https://img.shields.io/badge/-TejadaRenzo-blue?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/TejadaRenzo)](https://www.facebook.com/TejadaRenzo)
-[![Linkedin Badge](https://img.shields.io/badge/-tejadarenzo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tejadarenzo/)](https://www.linkedin.com/in/tejadarenzo/)
-[![Twitter Badge](https://img.shields.io/badge/-@tejadarenzo-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/tejadarenzo)](https://twitter.com/tejadarenzo)
+[![Linkedin Badge](https://img.shields.io/badge/-tejadarenzo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/renzo-tejada/)](https://www.linkedin.com/in/renzo-tejada/)
+[![Twitter Badge](https://img.shields.io/badge/-@tejadarenzo-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://x.com/tejadarenzo)](https://x.com/tejadarenzo)
 [![Instagram Badge](https://img.shields.io/badge/-rt_codes-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/rt_codes/)](https://www.instagram.com/rt_codes/)
 [![WordPress Badge](https://img.shields.io/badge/-renzotejada-lightgrey?style=flat-square&logo=wordpress&logoColor=white&link=https://profiles.wordpress.org/renzotejada/)](https://profiles.wordpress.org/renzotejada/)
 [![Youtube Badge](https://img.shields.io/badge/-RenzoTejada-darkred?style=flat-square&logo=youtube&logoColor=white&link=https://www.youtube.com/c/RenzoTejada)](https://www.youtube.com/c/RenzoTejada)
