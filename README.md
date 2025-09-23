@@ -38,5 +38,6 @@
 
 ![Renzo Tejada github stats]([https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=renzotejada&theme=vue](https://github-readme-stats.vercel.app/api?username=renzotejada&show_icons=true))
 
+https://github-readme-stats.vercel.app/api?username=renzotejada&show_icons=true
 
 
