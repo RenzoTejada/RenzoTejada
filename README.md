@@ -36,5 +36,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-renzzo09@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:renzzo09@gmail.com)](mailto:renzzo09@gmail.com)
 
 
-![Renzo Tejada github stats](https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=renzotejada&theme=vue)
+![Renzo Tejada github stats]([https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=renzotejada&theme=vue](https://github-readme-stats.vercel.app/api?username=renzotejada&show_icons=true))
+
+
 
