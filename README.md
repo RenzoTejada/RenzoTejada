@@ -19,7 +19,7 @@
 </h2>
 
 <h3 align="center">
-  PHP · WordPress · WooCommerce · APIs · Docker · Cloud · DevOps
+  PHP · WordPress · WooCommerce · Laravel · Node.js · Flutter · APIs · Docker · Cloud · DevOps
 </h3>
 
 <p align="center">
@@ -50,11 +50,11 @@
 
 # 👨‍💻 About Me
 
-I'm a **Senior Backend & WordPress Developer from Peru 🇵🇪** with experience building custom web platforms, eCommerce solutions, WordPress plugins, backend systems and third-party integrations.
+I'm a **Senior Backend & WordPress Developer from Peru 🇵🇪** with experience building custom web platforms, eCommerce solutions, WordPress plugins, backend systems, mobile applications and third-party integrations.
 
-My main stack is **PHP, WordPress and WooCommerce**, but my work also covers **REST APIs, MySQL, Docker, Linux infrastructure, cloud environments, CI/CD, deployment automation and web performance optimization**.
+My main stack is **PHP, WordPress and WooCommerce**, but my work also covers **Laravel, Node.js, Flutter, REST APIs, MySQL, Docker, Linux infrastructure, cloud environments, CI/CD, deployment automation and web performance optimization**.
 
-I'm also **Founder & CTO at Huako Tech**, where I work on custom technology solutions, digital platforms, automation and eCommerce projects.
+I'm also **Founder & CTO at Huako Tech**, where I work on custom technology solutions, digital platforms, automation, eCommerce, deployment systems and internal business tools.
 
 <br>
 
@@ -66,7 +66,14 @@ $renzo = [
         'PHP',
         'WordPress',
         'WooCommerce',
-        'CodeIgniter'
+        'Laravel',
+        'CodeIgniter',
+        'Node.js'
+    ],
+
+    'mobile' => [
+        'Flutter',
+        'Dart'
     ],
 
     'databases' => [
@@ -87,11 +94,20 @@ $renzo = [
         'Linode'
     ],
 
+    'integrations' => [
+        'REST APIs',
+        'WhatsApp API',
+        'Telegram Bot API',
+        'WooCommerce API',
+        'Webhooks'
+    ],
+
     'focus' => [
-        'APIs',
         'eCommerce',
         'Automation',
-        'Performance'
+        'APIs',
+        'Performance',
+        'Deployments'
     ],
 
     'location' => 'Lima, Peru 🇵🇪'
@@ -133,15 +149,15 @@ I build custom WordPress and WooCommerce platforms with complex business logic.
 I design backend solutions and connect external business systems.
 
 - PHP backend development
+- Laravel applications
+- Node.js services
 - REST APIs
 - Webhooks
 - ERP integrations
 - Payment gateways
 - Inventory services
-- Customer integrations
 - Background processes
 - Business automation
-- Electronic invoicing
 
 </td>
 
@@ -186,6 +202,47 @@ I also work beyond application development.
 </td>
 
 </tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+## 📱 Mobile Development
+
+I build mobile experiences connected to web and eCommerce platforms.
+
+- Flutter applications
+- Dart
+- WooCommerce integrations
+- Authentication
+- Product catalogs
+- Shopping cart flows
+- Checkout integration
+- Order history
+- API-driven mobile apps
+
+</td>
+
+<td width="50%" valign="top">
+
+## 🤖 Messaging & Automation
+
+I integrate messaging platforms into business workflows.
+
+- WhatsApp API
+- WhatsApp Business integrations
+- Telegram Bot API
+- Automated notifications
+- Order notifications
+- Webhooks
+- Bot workflows
+- Deployment notifications
+- Operational alerts
+
+</td>
+
+</tr>
+
 </table>
 
 <br>
@@ -200,8 +257,19 @@ I also work beyond application development.
 <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
 <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white">
 <img src="https://img.shields.io/badge/WooCommerce-96588A?style=for-the-badge&logo=woocommerce&logoColor=white">
+<img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white">
 <img src="https://img.shields.io/badge/CodeIgniter-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white">
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
 <img src="https://img.shields.io/badge/Composer-885630?style=for-the-badge&logo=composer&logoColor=white">
+</p>
+
+<br>
+
+## Mobile
+
+<p>
+<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
+<img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white">
 </p>
 
 <br>
@@ -226,6 +294,18 @@ I also work beyond application development.
 
 <br>
 
+## APIs & Messaging
+
+<p>
+<img src="https://img.shields.io/badge/REST_API-02569B?style=for-the-badge&logo=fastapi&logoColor=white">
+<img src="https://img.shields.io/badge/WooCommerce_API-96588A?style=for-the-badge&logo=woocommerce&logoColor=white">
+<img src="https://img.shields.io/badge/WhatsApp_API-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
+<img src="https://img.shields.io/badge/Telegram_Bot_API-26A5E4?style=for-the-badge&logo=telegram&logoColor=white">
+<img src="https://img.shields.io/badge/Webhooks-000000?style=for-the-badge&logo=webhook&logoColor=white">
+</p>
+
+<br>
+
 ## DevOps & Infrastructure
 
 <p>
@@ -235,6 +315,7 @@ I also work beyond application development.
 <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white">
 <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white">
 <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white">
+<img src="https://img.shields.io/badge/Linode-00A95C?style=for-the-badge&logo=akamai&logoColor=white">
 </p>
 
 <br>
@@ -245,6 +326,7 @@ I also work beyond application development.
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
 <img src="https://img.shields.io/badge/PhpStorm-000000?style=for-the-badge&logo=phpstorm&logoColor=white">
+<img src="https://img.shields.io/badge/DBeaver-382923?style=for-the-badge&logo=dbeaver&logoColor=white">
 </p>
 
 <br>
@@ -325,6 +407,102 @@ https://renzotejada.com/libro-de-reclamaciones-y-quejas/
 
 </tr>
 
+<tr>
+
+<td width="50%" valign="top">
+
+## 📱 WooCommerce Mobile App
+
+Flutter mobile application connected to a WooCommerce store.
+
+### Features
+
+- Product catalog
+- Search
+- Shopping cart
+- Checkout
+- Authentication
+- Customer account
+- Order history
+- Payment workflows
+
+### Stack
+
+`Flutter` `Dart` `WooCommerce API` `WordPress`
+
+</td>
+
+<td width="50%" valign="top">
+
+## 🚀 Deploy Automation Platform
+
+Centralized deployment workflows for staging and production.
+
+### Features
+
+- GitHub Actions
+- Deployment queues
+- Telegram commands
+- Manual approvals
+- Retry logic
+- Health monitoring
+- Staging / Production flows
+
+### Stack
+
+`PHP` `Node.js` `GitHub Actions` `Docker` `Telegram API`
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+## 🧾 Electronic Invoicing
+
+Backend workflow for electronic billing integrated with eCommerce and business systems.
+
+### Features
+
+- Invoices
+- Receipts
+- Credit notes
+- Debit notes
+- PDF / XML
+- WooCommerce integration
+- Notifications
+
+### Stack
+
+`PHP` `REST API` `WooCommerce` `MySQL`
+
+</td>
+
+<td width="50%" valign="top">
+
+## 🤖 Messaging Automation
+
+Messaging integrations for eCommerce and operational workflows.
+
+### Features
+
+- WhatsApp order notifications
+- Telegram deployment controls
+- Webhook processing
+- Bot commands
+- Customer notifications
+- Operational alerts
+
+### Stack
+
+`WhatsApp API` `Telegram Bot API` `Node.js` `PHP` `Webhooks`
+
+</td>
+
+</tr>
+
 </table>
 
 <br>
@@ -334,8 +512,6 @@ https://renzotejada.com/libro-de-reclamaciones-y-quejas/
 # 🛒 eCommerce & WooCommerce
 
 I work on custom WooCommerce platforms where the requirements go beyond standard store functionality.
-
-Some of the features I've implemented include:
 
 ### B2B / B2C
 
@@ -375,24 +551,20 @@ Some of the features I've implemented include:
 
 # 🔌 Integrations & APIs
 
-My backend work includes integrations between websites and external platforms.
+My backend work includes integrations between websites, mobile apps and external platforms.
 
 ```text
-WooCommerce
-     │
-     ├── REST APIs
-     │
-     ├── ERP
-     │
-     ├── Payment Gateways
-     │
-     ├── Inventory
-     │
-     ├── Customer Systems
-     │
-     ├── Electronic Invoicing
-     │
-     └── Automation
+Web / Mobile Apps
+        │
+        ├── WooCommerce REST API
+        ├── ERP
+        ├── Payment Gateways
+        ├── Inventory Services
+        ├── Customer Systems
+        ├── Electronic Invoicing
+        ├── WhatsApp API
+        ├── Telegram Bot API
+        └── Automation / Webhooks
 ```
 
 I've worked with:
@@ -401,9 +573,11 @@ I've worked with:
 - JSON
 - Webhooks
 - Authentication
+- WooCommerce APIs
 - Background jobs
 - External business services
 - Payment integrations
+- Messaging APIs
 - Customer synchronization
 - Product synchronization
 - Inventory synchronization
@@ -412,11 +586,98 @@ I've worked with:
 
 ---
 
+# 📱 Flutter & Mobile
+
+I'm also building mobile applications connected to WordPress and WooCommerce backends.
+
+Current mobile work includes:
+
+- Flutter
+- Dart
+- WooCommerce Store API
+- Product catalog
+- Product search
+- Shopping cart
+- Checkout flows
+- Customer login
+- Customer account
+- Order history
+- Payment methods
+- WordPress integrations
+
+<br>
+
+---
+
+# 🧱 Laravel & Modern PHP
+
+In addition to WordPress and CodeIgniter, I'm expanding backend projects using **Laravel** and modern PHP practices.
+
+Areas include:
+
+- MVC architecture
+- Routing
+- Controllers
+- Services
+- APIs
+- Database models
+- Migrations
+- Queue-based processes
+- Modular backend architecture
+- Package / publisher workflows
+
+<br>
+
+---
+
+# 🟢 Node.js
+
+I use Node.js for services, automation and integrations where asynchronous processing is useful.
+
+Typical use cases:
+
+- API services
+- Messaging integrations
+- Deployment tools
+- Background processes
+- Webhooks
+- Automation
+- Internal services
+- Control platforms
+
+<br>
+
+---
+
+# 💬 WhatsApp & Telegram APIs
+
+Messaging APIs are becoming part of my automation stack.
+
+## WhatsApp
+
+- WhatsApp Business workflows
+- Order notifications
+- Customer communication
+- Webhook integration
+- Automated messages
+- WooCommerce integration
+
+## Telegram
+
+- Bot commands
+- Deployment triggers
+- Deployment confirmations
+- Operational alerts
+- Automation workflows
+- Admin controls
+
+<br>
+
+---
+
 # 🧾 Electronic Invoicing
 
 I also work on backend systems for electronic invoicing and business document workflows.
-
-Typical workflows include:
 
 ```text
 Order
@@ -453,8 +714,6 @@ Development doesn't end when the code is finished.
 
 I also work on deployment infrastructure and automation.
 
-### Typical architecture
-
 ```text
 Developer
     ↓
@@ -462,14 +721,16 @@ GitHub
     ↓
 GitHub Actions
     ↓
+Deployment Controller
+    ↓
 Staging
     ↓
-Validation
+Validation / Approval
     ↓
 Production
 ```
 
-Technologies I use:
+Technologies and concepts I use:
 
 - GitHub Actions
 - Docker
@@ -477,8 +738,13 @@ Technologies I use:
 - Nginx
 - Webhooks
 - Deployment scripts
+- Node.js services
+- Telegram Bot integrations
 - Environment management
 - Staging / Production workflows
+- Retry strategies
+- Health checks
+- Deployment dashboards
 - Cloudflare
 - VPS infrastructure
 
@@ -496,12 +762,13 @@ Some areas I work on:
 - Scheduled synchronization
 - Background workers
 - API integrations
-- Notifications
+- WhatsApp notifications
+- Telegram bots
 - Webhooks
 - Infrastructure monitoring
 - Deployment dashboards
-- Telegram integrations
 - Business process automation
+- WooCommerce automation
 
 <br>
 
@@ -544,12 +811,12 @@ Digital Libro de Reclamaciones for WordPress.
 ## Backend
 
 - PHP
+- Laravel
+- CodeIgniter
+- Node.js
 - MVC
 - REST APIs
-- MySQL
-- MariaDB
 - JSON
-- AJAX
 - Composer
 
 </td>
@@ -571,6 +838,25 @@ Digital Libro de Reclamaciones for WordPress.
 
 <td width="33%" valign="top">
 
+## Mobile
+
+- Flutter
+- Dart
+- WooCommerce API
+- Authentication
+- Product Catalog
+- Shopping Cart
+- Checkout
+- Orders
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="33%" valign="top">
+
 ## Infrastructure
 
 - Docker
@@ -581,6 +867,36 @@ Digital Libro de Reclamaciones for WordPress.
 - VPS
 - AWS
 - CI/CD
+
+</td>
+
+<td width="33%" valign="top">
+
+## Integrations
+
+- REST APIs
+- WhatsApp API
+- Telegram Bot API
+- Webhooks
+- ERP
+- Payments
+- Inventory
+- Electronic Invoicing
+
+</td>
+
+<td width="33%" valign="top">
+
+## Databases & Tools
+
+- MySQL
+- MariaDB
+- Git
+- GitHub
+- PhpStorm
+- DBeaver
+- Composer
+- Docker
 
 </td>
 
@@ -624,12 +940,18 @@ Custom platforms for:
 - Administration
 - Reporting
 
+## 📱 Mobile
+
+Mobile applications connected to WordPress, WooCommerce and custom APIs.
+
 ## 🔗 Integrations
 
-Connecting websites with:
+Connecting websites and apps with:
 
 - ERPs
 - Payment services
+- WhatsApp
+- Telegram
 - External APIs
 - Business systems
 
@@ -646,6 +968,10 @@ I'm continuously expanding my stack.
 <img src="https://img.shields.io/badge/AWS-Cloud_Architecture-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white">
 
 <img src="https://img.shields.io/badge/Flutter-Mobile_Development-02569B?style=for-the-badge&logo=flutter&logoColor=white">
+
+<img src="https://img.shields.io/badge/Laravel-Backend-FF2D20?style=for-the-badge&logo=laravel&logoColor=white">
+
+<img src="https://img.shields.io/badge/Node.js-Automation-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
 
 <img src="https://img.shields.io/badge/AI-Assisted_Development-412991?style=for-the-badge">
 
@@ -667,6 +993,8 @@ I regularly write about:
 - Plugins
 - Web development
 - eCommerce
+- APIs
+- Automation
 - Performance
 
 ### 📝 Blog
@@ -750,7 +1078,7 @@ src="https://komarev.com/ghpvc/?username=renzotejada&label=Profile+Views&color=6
 </h2>
 
 <p align="center">
-  <b>PHP · WordPress · WooCommerce · APIs · Docker · Cloud · Automation</b>
+  <b>PHP · WordPress · WooCommerce · Laravel · Node.js · Flutter · APIs · Docker · Cloud · Automation</b>
 </p>
 
 <br>
